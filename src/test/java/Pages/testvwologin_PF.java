@@ -1,4 +1,4 @@
-package org.example;
+package Pages;
 
 import PageFactory.loginpage_PF;
 import base.commontoallpage;
