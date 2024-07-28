@@ -1,0 +1,1 @@
+{"uuid":"e10014a8-9990-4f03-9891-4ad5d4309fbe","name":"base.commontoalltests.setup","children":["e3ec703b-3156-4a69-8eb4-8ebc2cdab587"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1722152045237,"stop":1722152049521}],"afters":[],"start":1722152045237,"stop":1722152049521}
